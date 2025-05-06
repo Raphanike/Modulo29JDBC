@@ -32,7 +32,5 @@ Este projeto demonstra o uso de JDBC (Java Database Connectivity) para conectar 
    - Compile e execute o projeto utilizando o Maven ou Gradle.
    - Para rodar os testes, execute o comando do Maven ou Gradle correspondente aos testes unitários.
 
-## Estrutura do Projeto
 
-A estrutura do projeto é organizada da seguinte maneira:
 
